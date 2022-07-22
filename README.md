@@ -35,7 +35,7 @@ USE GOOGLE COLAB OR JUPYTER NOTEBOOK<br>
 
 
 ## Steps
-# 1) TEXT PREPROCESSING:
+### 1) TEXT PREPROCESSING:
 **TOKENIZATION:** This process divides a large piece of continuous text into distinct units or tokens basically this process is often known as tokenization.<br />
 **STEMMING:** This is the idea of removing the suffix of a word and reducing different forms of a word to a core root.<br />
 **STOPWORDS REMOVAL:** A stop word is a commonly used word (such as “the”, “a”, “an”, “in”) that a search engine has been programmed to ignore.<br />
