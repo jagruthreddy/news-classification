@@ -9,7 +9,7 @@ Build a model which classifies whether the news given is genuine news or false n
 ## Overview
 This is a .<br />
 
-**Dataset:** <br />
+**Dataset:** https://drive.google.com/drive/folders/1BBtzyvJTDIHdEq-S7iWWyc80_S1Ly9W_?usp=sharing <br />
 
 
 Accuracy is above **98%**
