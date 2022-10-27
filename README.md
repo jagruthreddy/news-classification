@@ -14,8 +14,8 @@ Natural languages could be any human languages like English, Hindi ,Telugu , Tam
 1) TEXT PREPROCESSING
 2) VECTORIZATION
 3) TERM FREQUENCY-INVERSE DOCUMENT FREQUENCY(TF-IDF)
-4) CLASIFICATION ALGORITHMS
-<br/>
+4) CLASIFICATION ALGORITHMS<br/>
+
 **Dataset:** <br/>
 https://drive.google.com/drive/folders/1BBtzyvJTDIHdEq-S7iWWyc80_S1Ly9W_?usp=sharing <br />
 
